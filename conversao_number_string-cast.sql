@@ -1,4 +1,4 @@
-/****** utilizar a função cast para converter OrderQty em string. Assim podemos ter os valores maiores que 4 representador por "+4"   ******/
+/****** utilizar a função cast para converter OrderQty em string. Assim podemos representar os valores maiores que 4 representador por "+4"   ******/
 SELECT 
       [OrderQty] as order_items,
       [ProductID],
